@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:89b4fa,100:cba6f7&height=3&width=100%"/>
+<img src="./assets/mocha-divider.svg" width="100%"/>
 
 ## ☕ about me
 
@@ -36,7 +36,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:89b4fa,100:cba6f7&height=3&width=100%"/>
+<img src="./assets/mocha-divider.svg" width="100%"/>
 
 ## 📊 stats
 
@@ -44,13 +44,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=captin01&show_icons=true&theme=catppuccin_mocha&hide_border=true" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=captin01&theme=catppuccin-mocha&hide_border=true" width="49%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captin01&layout=compact&theme=catppuccin_mocha&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=captin01&theme=github-compact&bg_color=1e1e2e&color=89b4fa&line=cba6f7&point=fab387&hide_border=true" width="49%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:89b4fa,100:cba6f7&height=3&width=100%"/>
+<img src="./assets/mocha-divider.svg" width="100%"/>
 
 ## 🔧 tech stack
 
@@ -79,7 +77,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:89b4fa,100:cba6f7&height=3&width=100%"/>
+<img src="./assets/mocha-divider.svg" width="100%"/>
 
 ## 🚀 projects
 
@@ -118,7 +116,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:89b4fa,100:cba6f7&height=3&width=100%"/>
+<img src="./assets/mocha-divider.svg" width="100%"/>
 
 ## 📡 connect
 
