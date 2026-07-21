@@ -1,0 +1,78 @@
+<svg viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <defs>
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#89b4fa"/>
+      <stop offset="45%" stop-color="#a6c8fa"/>
+      <stop offset="100%" stop-color="#cdd6f4"/>
+    </linearGradient>
+    <linearGradient id="hillGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b4befe"/>
+      <stop offset="100%" stop-color="#9399b2"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="220" fill="url(#skyGrad)"/>
+
+  <g transform="translate(860,40)">
+    <rect x="-24" y="-24" width="48" height="48" fill="#f9e2af" opacity="0.35"/>
+    <rect x="-16" y="-16" width="32" height="32" fill="#f9e2af"/>
+    <rect x="-8" y="-8" width="16" height="16" fill="#fef9e7"/>
+  </g>
+
+  <g fill="url(#hillGrad)" opacity="0.55">
+    <rect x="0" y="150" width="40" height="10"/>
+    <rect x="40" y="140" width="40" height="20"/>
+    <rect x="80" y="130" width="60" height="30"/>
+    <rect x="140" y="140" width="60" height="20"/>
+    <rect x="200" y="150" width="120" height="10"/>
+    <rect x="700" y="150" width="80" height="10"/>
+    <rect x="780" y="135" width="60" height="25"/>
+    <rect x="840" y="145" width="80" height="15"/>
+    <rect x="920" y="150" width="80" height="10"/>
+  </g>
+
+  <g fill="#f5f7ff">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-120,0; 1100,0" dur="34s" repeatCount="indefinite"/>
+      <rect x="0" y="40" width="16" height="8"/>
+      <rect x="16" y="32" width="16" height="16"/>
+      <rect x="32" y="24" width="32" height="24"/>
+      <rect x="64" y="32" width="16" height="16"/>
+      <rect x="80" y="40" width="16" height="8"/>
+    </g>
+  </g>
+
+  <g fill="#f5f7ff" opacity="0.9">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-160,0; 1160,0" dur="26s" begin="-6s" repeatCount="indefinite"/>
+      <rect x="0" y="90" width="16" height="8"/>
+      <rect x="16" y="82" width="16" height="16"/>
+      <rect x="32" y="74" width="24" height="24"/>
+      <rect x="56" y="82" width="16" height="16"/>
+      <rect x="72" y="90" width="16" height="8"/>
+    </g>
+  </g>
+
+  <g fill="#f5f7ff" opacity="0.75">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-100,0; 1100,0" dur="42s" begin="-18s" repeatCount="indefinite"/>
+      <rect x="0" y="15" width="12" height="6"/>
+      <rect x="12" y="9" width="12" height="12"/>
+      <rect x="24" y="15" width="12" height="6"/>
+    </g>
+  </g>
+
+  <g fill="#585b70">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-40,60; 1040,20" dur="18s" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="4" height="4"/><rect x="4" y="-4" width="4" height="4"/><rect x="8" y="0" width="4" height="4"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-60,90; 1020,55" dur="22s" begin="-9s" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="4" height="4"/><rect x="4" y="-4" width="4" height="4"/><rect x="8" y="0" width="4" height="4"/>
+    </g>
+  </g>
+
+  <rect x="0" y="196" width="1000" height="24" fill="#181825"/>
+  <rect x="0" y="196" width="1000" height="4" fill="#313244"/>
+</svg>
